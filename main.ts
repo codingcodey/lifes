@@ -1,3 +1,7 @@
-let Lifes = 1
+let Lives = 1
 scene.setBackgroundColor(5)
-game.splash("You have " + Lifes + " life")
+if (Lives == 1) {
+    game.splash("You have " + Lives + " life")
+} else {
+    game.splash("You have " + Lives + " lives")
+}

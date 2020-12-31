@@ -1,5 +1,5 @@
 {
-    "name": "Lifes",
+    "name": "Lives",
     "description": "",
     "dependencies": {
         "device": "*"
